@@ -727,15 +727,6 @@
   "resolved" "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz"
   "version" "1.1.3"
 
-"docs@file:/home/alex/superdatas.org/apps/docs":
-  "resolved" "file:apps/docs"
-  "version" "1.0.0"
-  dependencies:
-    "next" "latest"
-    "react" "^18.2.0"
-    "react-dom" "^18.2.0"
-    "ui" "*"
-
 "doctrine@^2.1.0":
   "integrity" "sha512-35mSku4ZXK0vfCuHEDAwt55dg2jNajHZ1odvF+8SSr82EsZY4QmXfuWso8oEd8zRhVObSN18aM0CjSdoBX7zIw=="
   "resolved" "https://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz"
